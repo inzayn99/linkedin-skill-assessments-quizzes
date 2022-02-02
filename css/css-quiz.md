@@ -1656,7 +1656,7 @@ img {
 - [ ] `z-index: 1;z-index: 1;`
 - [ ] `z-index: -1;z-index: -1;`
 - [ ] `z-index: 0;z-index: 0;`
-- [ ] `z-index: true;z-index: true;`
+- [X] `z-index: true;z-index: true;`
 
 #### Q114. To make the font size of an element one size smaller than the font size of the element's container, which style property would you apply? To make the font size of an element one size smaller than the font size of the element's container, which style property would you apply?
 
